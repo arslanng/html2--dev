@@ -1,3 +1,3 @@
 #Ödev
-HTML ödev bir için **ilk web sayfasını oluşturmak** adlı ödev.
+HTML ödev bir için **Kişisel Sayfamızı Detaylandırmaya Devam Etmek** adlı ödev.
 deneme
